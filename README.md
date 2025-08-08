@@ -1,4 +1,4 @@
-🎮 Project "Gari's Journey"
+🎮 Project "The Sanitation Worker's Journey"
 👋 Welcome!
 
 We are pleased to present the project "Gari's Journey", developed as part of the Supervised Practical Activity course, taught by Professor Gustavo during the first semester of 2024.
