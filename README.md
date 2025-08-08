@@ -1,13 +1,20 @@
-# Projeto "Jornada do Gari"
+🎮 Project "Gari's Journey"
+👋 Welcome!
 
-Bem-vindo!
+We are pleased to present the project "Gari's Journey", developed as part of the Supervised Practical Activity course, taught by Professor Gustavo during the first semester of 2024.
 
-É com satisfação que apresentamos o projeto "Jornada do Gari", desenvolvido no âmbito da disciplina de Atividade Prática Supervisionada, ministrada pelo professor Gustavo durante o primeiro semestre de 2024.
+🧩 Challenge
+The proposed challenge for this project was of great significance: to develop a game with the theme of combating pollution.
+🌱 A mission that required effort and dedication, but proved to be enriching in its complexity.
 
-## Desafio
-O desafio proposto para este projeto foi de grande relevância: desenvolver um jogo com a temática de combate à poluição. Uma missão que demandou esforço e dedicação, mas que se revelou enriquecedora em sua complexidade.
+🕹️ The Game
+Aiming to meet the standards of excellence required, we used the Java programming language ☕, as recommended by Professor Gustavo.
 
-## Jogo
-Com o objetivo de alcançar os padrões de excelência exigidos, utilizamos a linguagem Java, conforme orientação do professor Gustavo. Esta escolha nos permitiu explorar todo o potencial da biblioteca LibGDX para a implementação da física e mecânica do jogo. Adicionalmente, fizemos uso do software Tiled para a elaboração detalhada do mapa, proporcionando uma experiência visual imersiva aos jogadores. Algumas texturas foram criadas por meio do site Piskel, garantindo um aspecto estético refinado ao projeto.
+This choice allowed us to fully explore the potential of the LibGDX library 🔧 for implementing the game’s physics and mechanics.
 
-Estamos ansiosos para compartilhar esta jornada com você, na certeza de que encontrará em "Jornada do Gari" uma experiência não apenas divertida, mas também instrutiva e conscientizadora.
+Additionally:
+🗺️ Tiled was used for detailed map design, providing an immersive visual experience.
+🎨 Some textures were created using Piskel, giving the project a polished aesthetic.
+
+We’re excited to share this journey with you! 🚀
+We believe that "Gari's Journey" offers not only a fun experience 🎉, but also an educational 🌍 and thought-provoking one.
